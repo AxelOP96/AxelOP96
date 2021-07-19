@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I' m Axel. I' m 25 years old and I'm a student at the National University of La Matanza in Buenos Aires, Argentina.
+- 🌱 I’m currently learning Kotlin, Java, JavaScript and Vue-JS
 <!--
 **AxelOP96/AxelOP96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
