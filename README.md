@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel Leguero</h1>
-<h3 align="center">A passionate developer student from Buenos Aires, Argentina. My hobbies are coding, drawing, watching anime and watching Boca Juniors💙💛💙</h3>
+<h3 align="center">A passionate developer student from Buenos Aires, Argentina. I'm currently studying an associate´s degree in web development. My hobbies are coding, drawing, watching anime and Boca Juniors💙💛💙</h3>
 
 - 🌱 I’m currently learning **Spring, ASP.NET CORE, Python, Angular and React**
 
